@@ -1,4 +1,9 @@
 ## Hi there 👋
+Hi, I’m Allen 👋  
+I’m currently learning how to contribute to large open-source projects.  
+Right now, I’m focused on contributing to Oppia and improving my skills in Python and web development.
+
+I’m interested in writing clean code, learning from reviews, and growing as a long-term contributor.
 
 <!--
 **allen-jesss/allen-jesss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
